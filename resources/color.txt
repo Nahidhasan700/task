@@ -1,0 +1,8 @@
+banner: #563df6, 
+
+history-box:#fdbbcc, #a0f6d4, #9de78a, #f9cafb
+
+button-text: #8f49f9
+
+tittle color:#282331
+tittle0-color-2: 382c4d
